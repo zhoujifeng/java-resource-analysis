@@ -1,6 +1,7 @@
 package com.kind.test;
 
 import java.util.ArrayList;
+import java.util.Map;
 
 /**
  * @author zhoujifeng
@@ -16,5 +17,7 @@ public class ArrEqualsTest {
         System.out.println(arr2 == DEFAULTCAPACITY_EMPTY_ELEMENTDATA);
 
         ArrayList arrayList = new ArrayList();
+
+
     }
 }
